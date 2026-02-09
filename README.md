@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Simon, software developer graduate from [42 school](https://42.fr/). 
+I am Simon, software developer graduate from [42](https://42.fr/). 
 
 👀 I'm focused on Bitcoin and low-level programming (Rust, C++, C).
 
