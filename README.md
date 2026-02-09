@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am Simon, software developer graduate from [link text](https://42.fr/) 42 School, former Blockchain Departement Manager at [link text](https://www.exaion.com/) Exaion (EDF Group). 
+
+👀 I'm focused on Bitcoin and low-level programming (Rust, C++, C).
+
+🔭 I’m currently working on building a personal bitcoin wallet
 
 <!--
 **Sths147/Sths147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
