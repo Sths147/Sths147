@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Simon, software developer graduate from [link text](https://42.fr/) 42 School, former Blockchain Departement Manager at [link text](https://www.exaion.com/) Exaion (EDF Group). 
+I am Simon, software developer graduate from [42 school](https://42.fr/), former Blockchain Departement Manager at [Exaion](https://www.exaion.com/) (EDF Group). 
 
 👀 I'm focused on Bitcoin and low-level programming (Rust, C++, C).
 
