@@ -1,9 +1,7 @@
 ## Hi there 👋
 I am Simon, software developer graduate from [42](https://42.fr/). 
 
-👀 I'm focused on Bitcoin and low-level programming (Rust, C++, C).
-
-🔭 I’m currently working on building bitcoin related tools
+👀 I'm focused on DevOps and low-level programming.
 
 <!--
 **Sths147/Sths147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
